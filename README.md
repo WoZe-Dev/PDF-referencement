@@ -30,13 +30,3 @@ docker-compose up -d
 ```
 
 L'application est accessible sur `http://localhost:5173` et l'API sur `http://localhost:3001`.
-
-### Variables d'environnement requises
-
-```env
-OCR_API_KEY=           # Cle API OCR.space
-SKYPER_LOGIN_URL=      # URL de connexion Skyper
-SKYPER_PRODUCTS_URL=   # URL API produits Skyper
-SKYPER_USERNAME=       # Identifiant Skyper
-SKYPER_PASSWORD=       # Mot de passe Skyper
-```
