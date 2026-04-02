@@ -13,10 +13,9 @@ Application web pour extraire des references produits depuis des images et gener
 
 | Composant | Technologie |
 |-----------|-------------|
-| Frontend | React 18, TypeScript, Vite, Tailwind CSS |
+| Frontend | React , TypeScript, Vite, Tailwind CSS |
 | API | Deno (serveur HTTP natif) |
-| Base de donnees | PostgreSQL 15 |
-| OCR | OCR.space API |
+| Base de donnees | PostgreSQL |
 | PDF | jsPDF |
 | Deploiement | Docker Compose |
 
